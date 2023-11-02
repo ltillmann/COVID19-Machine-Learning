@@ -1,7 +1,3 @@
-Group Project submitted by Lukas Tillmann for the Course "Programming With Advanced Computer Languages" at the
-University of St. Gallen (Fall Semester 2020). Written 100% in Python.
-
-Description:
 Based on clinical data, the program distinguishes between H1N1 (Influenza) and SARS-CoV-2 (COVID-19) cases, applying
 three different supervised machine learning algorithms. This is to emphasize not only different methods of machine
 learning, but also the general trade-off between accuracy and (time) efficiency of these algorithms. One can define the
