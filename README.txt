@@ -1,5 +1,3 @@
-******** Please read the readme file before running the program ********
-
 Group Project submitted by Lukas Tillmann for the Course "Programming With Advanced Computer Languages" at the
 University of St. Gallen (Fall Semester 2020). Written 100% in Python.
 
